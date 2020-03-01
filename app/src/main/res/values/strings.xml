@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sppinarfile</string>
+
+    <string-array name="country_name">
+        <item> Bangladesh </item>
+        <item> Chaina </item>
+        <item> Emgland </item>
+        <item> India </item>
+        <item> Mayanmar </item>
+    </string-array>
+
+
+</resources>
